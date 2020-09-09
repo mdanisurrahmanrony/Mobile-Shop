@@ -14,3 +14,4 @@ It uses localStorage for persisting the cart Items.
 2. npm audit fix
 3. npm fund
 4. npm start
+5. npm run build

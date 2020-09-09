@@ -9,9 +9,8 @@ It uses localStorage for persisting the cart Items.
 4. Modify the cart Items
 5. Stripe api intigrated for payment
 
-# npm Command:
-npm install
-npm audit fix
-npm fund
-
-npm start
+## npm Command:
+1. npm install
+2. npm audit fix
+3. npm fund
+4. npm start
